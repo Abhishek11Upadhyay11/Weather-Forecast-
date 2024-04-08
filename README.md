@@ -1,4 +1,4 @@
-# Weather-Forecast- 
-In this Java based Application i've used HTML ,CSS ,SERVLET ,JSP and JS.
-AND THE SERVER USED IS TOMCAT VIRSION 10.1
+ 
+In this Java-based Application, I've used HTML, CSS, SERVLET, JSP and JS.
+AND THE SERVER USED IS TOMCAT VERSION 10.1
 
